@@ -1,10 +1,15 @@
 # Voice of Customer Analysis Platform
 
 ![voc-dashboard-alerts](https://github.com/user-attachments/assets/28bebafd-5a7a-4cc6-bbec-1b99d4a53f27)
+
 ![voc-dashboard-analytics (1)](https://github.com/user-attachments/assets/1f66455c-5271-413d-96eb-1863ffd1b6e9)
+
 ![voc-dashboard-analytics](https://github.com/user-attachments/assets/365d30cc-24d8-47a9-960f-37b66557d14c)
+
 ![voc-dashboard-customer-feedback](https://github.com/user-attachments/assets/a22e1371-a8af-491e-bb0d-52623f4ba7ea)
+
 ![voc-dashboard-main](https://github.com/user-attachments/assets/3961888f-cb3f-4a2d-a02f-63dcdc614861)
+
 ![voc-users-dashboard](https://github.com/user-attachments/assets/0a358490-fcbb-4006-b441-464ad08cb610)
 
 ## Table of Contents
